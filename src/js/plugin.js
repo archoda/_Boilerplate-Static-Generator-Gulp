@@ -1,3 +1,0 @@
-const plugin = {};
-
-const s = [];
