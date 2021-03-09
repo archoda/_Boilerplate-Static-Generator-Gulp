@@ -1,2 +1,3 @@
-# _Boilerplate-Static-Archoda
-A static website boilerplate using gulp
+# Boilerplate Static Generator
+
+A lughtweight static website boilerplate generator using gulp task runner
